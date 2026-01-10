@@ -13,7 +13,8 @@
 ##  Estructura del Proyecto
 # 📁 Travel-To-Python
 
-Este es mi portafolio modularizado de todo lo que he aprendido en Python.
+Este es mi portafolio modularizado de todo lo que he aprendido en Python hasta e día de hoy.
+De igual forma seguiré actualizando, hasta el final dejare la lista de las proximas actualizaciones...
 
 ## 📂 Estructura del proyecto
 
