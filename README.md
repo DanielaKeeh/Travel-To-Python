@@ -23,9 +23,9 @@ Este es mi portafolio modularizado de todo lo que he aprendido en Python.
 | 📁 [Introduccion/](https://github.com/DanielaKeeh/Travel-To-Python/tree/main/Introduccion) | 🐍 Fundamentos de Python | [AprendiendoPython.py](link), [EjerciciosBasicos.py](link) |
 | 📁 [PrimerProyecto/](https://github.com/DanielaKeeh/Travel-To-Python/tree/main/PrimerProyecto) | 🔧 Ejercicios prácticos | [ValidarContrasena.py](link), [ClasificarEdad.py](link) |
 | 📁 [SegundoProyecto/](https://github.com/DanielaKeeh/Travel-To-Python/tree/main/SegundoProyecto) | 🎂 Proyecto integrador | [DataBase.py](link), [Pedidos.py](link) |
-| 🚀 [main.py](link) | Menú principal | - |
+|    [main.py](link) | Menú principal | - |
 
-## 🎯 Descripción
+##  Descripción
 
 - **Introduccion/**: Conceptos básicos (variables, operadores, condicionales, loops)
 - **PrimerProyecto/**: Validaciones y verificadores 
