@@ -11,7 +11,7 @@
 - **Código limpio y comentado en español**
 
 ##  Estructura del Proyecto
-
+```
 📁 Travel-To-Python/
 ├── 📁 [Introduccion/](https://github.com/DanielaKeeh/Travel-To-Python/tree/main/Introduccion)          # 🐍 Fundamentos de Python
 │   ├── 📄 [AprendiendoPython.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/Introduccion/AprendiendoPython.py)
@@ -30,7 +30,7 @@
 │   └── 📄 [menusp.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/SegundoProyecto/menusp.py)
 ├── 🚀 [main.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/main.py)                      # Menú principal
 └── 📖 README.md                                                                       # Este archivo
-
+```
 ## Habilidades Demostradas 
 
 ### Fundamentos de Python
