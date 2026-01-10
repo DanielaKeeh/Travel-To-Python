@@ -12,25 +12,24 @@
 
 ##  Estructura del Proyecto
 
-PortafolioPython/
-├── Introduccion/ # Fundamentos de Python
-│ ├── AprendiendoPython.py
-│ ├── EjerciciosBasicos.py
-│ ├── EjerciciosCondicionales.py
-│ └── menu_intro.py
-├── PrimerProyecto/ # Ejercicios prácticos
-│ ├── ValidarContrasena.py
-│ ├── ClasificarEdad.py
-│ ├── VerificadorVotacion.py
-│ ├── numeros.py
-│ └── menupp.py
-├── SegundoProyecto/ # Proyecto integrador
-│ ├── DataBase.py
-│ ├── Pedidos.py
-│ └── menusp.py
-├── main.py # Menú principal
-└── README.md # Este archivo
-
+📁 Travel-To-Python/
+├── 📁 [Introduccion/](https://github.com/DanielaKeeh/Travel-To-Python/tree/main/Introduccion)          # 🐍 Fundamentos de Python
+│   ├── 📄 [AprendiendoPython.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/Introduccion/AprendiendoPython.py)
+│   ├── 📄 [EjerciciosBasicos.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/Introduccion/EjerciciosBasicos.py)
+│   ├── 📄 [EjerciciosCondicionales.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/Introduccion/EjerciciosCondicionales.py)
+│   └── 📄 [menu_intro.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/Introduccion/menu_intro.py)
+├── 📁 [PrimerProyecto/](https://github.com/DanielaKeeh/Travel-To-Python/tree/main/PrimerProyecto)      # 🔧 Ejercicios prácticos
+│   ├── 📄 [ValidarContrasena.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/PrimerProyecto/ValidarContrasena.py)
+│   ├── 📄 [ClasificarEdad.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/PrimerProyecto/ClasificarEdad.py)
+│   ├── 📄 [VerificadorVotacion.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/PrimerProyecto/VerificadorVotacion.py)
+│   ├── 📄 [numeros.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/PrimerProyecto/numeros.py)
+│   └── 📄 [menupp.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/PrimerProyecto/menupp.py)
+├── 📁 [SegundoProyecto/](https://github.com/DanielaKeeh/Travel-To-Python/tree/main/SegundoProyecto)    # 🎂 Proyecto integrador
+│   ├── 📄 [DataBase.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/SegundoProyecto/DataBase.py)
+│   ├── 📄 [Pedidos.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/SegundoProyecto/Pedidos.py)
+│   └── 📄 [menusp.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/SegundoProyecto/menusp.py)
+├── 🚀 [main.py](https://github.com/DanielaKeeh/Travel-To-Python/blob/main/main.py)                      # Menú principal
+└── 📖 README.md                                                                       # Este archivo
 
 ## Habilidades Demostradas 
 
